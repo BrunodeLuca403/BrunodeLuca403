@@ -4,7 +4,7 @@
 <h3 style= text-align="center"> Olá seja bem vindo ao meu GitHub, meu nome é Bruno !!</h3>
 
 
-- 🔭 Desenvolvedor Back End Júnior     
+- 🔭 Desenvolvedor Backend Júnior     
 - 🌱 Estudando C# .NET                    
 - ✉️ brunodeluca403@gmail.com
 - 🔍 GitHub em construção...
